@@ -47,9 +47,6 @@ The analysis proceeds in four steps:
 4. **Regression analysis**  
    Estimating a log earnings regression:
 
-\[
-\log(Median_i) = \alpha + \beta MajorCategory_i + \gamma UnemploymentRate_i + \epsilon_i
-\]
 
 This specification allows the coefficients to be interpreted approximately as percentage differences in earnings across majors.
 
